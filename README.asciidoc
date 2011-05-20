@@ -1,7 +1,8 @@
+Landing Page Template
 ================
-:Author: O'Reilly
-:Version: 0.1
-:Date: 5/19/11
+O'Reilly
+v0.1, 5-20-11
+
 
 == Overview
 
@@ -9,7 +10,7 @@ This respository contains the latest definitive bug fixed source code for exampl
 
 In addition to _Mining the Social Web_, you might also enjoy (*author can link to other related content here?*) two companion products: http://oreil.ly/iiwtF5[Matthew Russell on Mining the Social Web], a spin-off video series that talks through much of the Twitter-related content in the book, and http://oreil.ly/hFaIAE[21 Recipes for Mining Twitter], a collection of useful starting points that you can piece together and adapt to solve lots of Twitter-related data mining problems.
 
-.Marketing Description
+== Marketing Description
 
 (*Can this be linked to directly from the catalog page? That way, any time the cover is updated on our end it will update at this location in GitHub?*) +
 image:http://covers.oreilly.com/images/0636920010203/lrg.jpg[cover art]
@@ -24,16 +25,16 @@ With Mining the Social Web, intermediate to advanced Python programmers will lea
 * Learn how to slice and dice social web data with easy to use Python tools as well as apply more advanced mining techniques such as TF-IDF, cosine similarity, collocation analysis, document summarization, and clique detection
 * Build interactive visualizations with easily adaptable web technologies built upon HTML5 and JavaScript toolkits
 
-.Getting Help
+== Getting Help
 
 (*add links here to oreilly help pages: errata, getsatisfaction, etc.?*) Feel free to submit pull requests if you uncover any bugs or come up with improvements you'd like to share with everyone, or file an issue here on GitHub if you need help with something. Feel free to also submit questions to http://twitter.com/SocialWebMining[@SocialWebMining] on Twitter. http://oreilly.com/catalog/errata.csp?isbn=0636920010203[errata] (*this can only be updated with the IP ISBN*)
 
-.Connect
+== Connect
 
 (*kill this section?*)
 Join the book's official Twitter account, http://twitter.com/SocialWebMining[@SocialWebMining], or http://on.fb.me/hXY7jo[check out its Facebook Page] to keep up with news, speaking events, webinar announcements, additional content that will be published, occasional book giveaways, and more.
 
-.Praise
+== Praise
 
 ``A rich, compact, useful practical introduction to a galaxy of tools, techniques and theories for exploring structured and unstructured data'' -- _Alex Martelli, Senior Staff Engineer, Google; author of Python in a Nutshell_
 
