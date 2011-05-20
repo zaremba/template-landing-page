@@ -1,19 +1,21 @@
-GitHub README template
+:GitHub README template
 ================
 :Author: O'Reilly
 :Version: 0.1
 :Date: 5/19/11
 
-== Overview
+Overview
+--------
 
 This respository contains the latest definitive bug fixed source code for examples from http://oreilly.com/catalog/0636920010203[Mining the Social Web]. This code is available for you to hack on, fork, and discuss regardless of whether or not you have any interest in the book. Feel free to do whatever you'd like with it. However, it is almost definitely the case that if you find this code even mildly interesting, you'll really benefit from picking up a copy of the book, which is available in many formats. (*Describe how this GitHub location interacts with examples.oreilly.com, catalog page errata, etc.*)
 
 In addition to _Mining the Social Web_, you might also enjoy (*author can link to other related content here?*) two companion products: http://oreil.ly/iiwtF5[Matthew Russell on Mining the Social Web], a spin-off video series that talks through much of the Twitter-related content in the book, and http://oreil.ly/hFaIAE[21 Recipes for Mining Twitter], a collection of useful starting points that you can piece together and adapt to solve lots of Twitter-related data mining problems.
 
-== Marketing Description
+Marketing Description
+---------------------
 
 (*Can this be linked to directly from the catalog page? That way, any time the cover is updated on our end it will update at this location in GitHub?*)
-image::http://covers.oreilly.com/images/0636920010203/lrg.jpg[cover art]
+image:http://covers.oreilly.com/images/0636920010203/lrg.jpg[cover art]
 
 (*Same linking with this marketing description? Probably more difficult, but perhaps at least paste this text from official marketing content?*)
 Popular social networks such as Facebook, Twitter, and LinkedIn generate a tremendous amount of valuable social data. Who's talking to whom? What are they talking about? How often are they talking? Where are they at? This concise and practical book shows you how to answer these types of questions and more. Each chapter presents a soup-to-nuts approach that combines popular social web data, analysis techniques, and visualization so that you can find the needles you've been looking for as well as some of the ones you didn't even know to look for in the first place.
@@ -25,16 +27,19 @@ With Mining the Social Web, intermediate to advanced Python programmers will lea
 * Learn how to slice and dice social web data with easy to use Python tools as well as apply more advanced mining techniques such as TF-IDF, cosine similarity, collocation analysis, document summarization, and clique detection
 * Build interactive visualizations with easily adaptable web technologies built upon HTML5 and JavaScript toolkits
 
-== Getting Help
+Getting Help
+------------
 
 (*add links here to oreilly help pages: errata, getsatisfaction, etc.?*) Feel free to submit pull requests if you uncover any bugs or come up with improvements you'd like to share with everyone, or file an issue here on GitHub if you need help with something. Feel free to also submit questions to http://twitter.com/SocialWebMining[@SocialWebMining] on Twitter. http://oreilly.com/catalog/errata.csp?isbn=0636920010203[errata] (*this can only be updated with the IP ISBN*)
 
-== Connect
+Connect
+--------
 
 (*kill this section?*)
 Join the book's official Twitter account, http://twitter.com/SocialWebMining[@SocialWebMining], or http://on.fb.me/hXY7jo[check out its Facebook Page] to keep up with news, speaking events, webinar announcements, additional content that will be published, occasional book giveaways, and more.
 
-== Praise
+Praise
+------
 
 ``A rich, compact, useful practical introduction to a galaxy of tools, techniques and theories for exploring structured and unstructured data'' -- _Alex Martelli, Senior Staff Engineer, Google; author of Python in a Nutshell_
 
