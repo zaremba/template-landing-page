@@ -1,10 +1,7 @@
-Landing Page Template
-================
-O'Reilly
-v0.1, 5-20-11
+== Markup Demo
+This is a chapter.
 
-
-== Overview
+This file illustrates some of the most common elements used in O'Reilly books.
 
 This respository contains the latest definitive bug fixed source code for examples from http://oreilly.com/catalog/0636920010203[Mining the Social Web]. This code is available for you to hack on, fork, and discuss regardless of whether or not you have any interest in the book. Feel free to do whatever you'd like with it. However, it is almost definitely the case that if you find this code even mildly interesting, you'll really benefit from picking up a copy of the book, which is available in many formats. (*Describe how this GitHub location interacts with examples.oreilly.com, catalog page errata, etc.*)
 
