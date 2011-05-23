@@ -6,7 +6,8 @@ In addition to _Mining the Social Web_, you might also enjoy (*author can link t
 
 == Marketing Description
 
-(*Can this be linked to directly from the catalog page? That way, any time the cover is updated on our end it will update at this location in GitHub?*) +
+(*Can this be linked to directly from the catalog page? That way, any time the cover is updated on our end it will update at this location in GitHub?*)
+
 image:http://covers.oreilly.com/images/0636920010203/lrg.jpg[cover art]
 
 (*Same linking with this marketing description? Probably more difficult, but perhaps at least paste this text from official marketing content?*)
