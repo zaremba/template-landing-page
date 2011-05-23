@@ -30,6 +30,4 @@ Join the book's official Twitter account, http://twitter.com/SocialWebMining[@So
 
 == Praise
 
-``A rich, compact, useful practical introduction to a galaxy of tools, techniques and theories for exploring structured and unstructured data'' -- _Alex Martelli, Senior Staff Engineer, Google; author of Python in a Nutshell_
-
-``Data from the social Web is different: networks and text, not tables and numbers, are the rule, and familiar query languages are replaced with rapidly evolving web service APIs. Let Matthew Russell serve as your guide to working with social data sets old (email, blogs) and new (Twitter, LinkedIn, Facebook). Mining the Social Web is a natural successor to Programming Collective Intelligence: a practical, hands-on approach to hacking on data from the social Web with Python.'' -- _Jeff Hammerbacher, Chief Scientist, Cloudera_
+``This book is wonderful, amazing, and other incredibly positive things.'' -- _Famous Reviewer, President and CEO, Fortune 500 Company; author of Very Popular Book_
