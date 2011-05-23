@@ -4,7 +4,6 @@ This respository contains the latest definitive bug fixed source code for exampl
 
 In addition to _Mining the Social Web_, you might also enjoy (*author can link to other related content here, if desired?*).
 
-
 (*Can this be linked to directly from the catalog page? That way, any time the cover is updated on our end it will update at this location in GitHub?*)
 
 image:http://covers.oreilly.com/images/0636920010203/lrg.jpg[cover art]
@@ -21,9 +20,15 @@ With Mining the Social Web, intermediate to advanced Python programmers will lea
 
 == Getting Help
 
-(*add links here to oreilly help pages: errata, getsatisfaction, etc.?*) Feel free to submit pull requests if you uncover any bugs or come up with improvements you'd like to share with everyone, or file an issue here on GitHub if you need help with something. Feel free to also submit questions to http://twitter.com/SocialWebMining[@SocialWebMining] on Twitter. http://oreilly.com/catalog/errata.csp?isbn=0636920010203[errata] (*this can only be updated with the IP ISBN*)
+Feel free to submit pull requests if you uncover any bugs with this code or come up with improvements you'd like to share with everyone, or file an issue here on GitHub if you need help with something.
+
+If you'd like to report an error with the book not specific to the code, please see its official http://oreilly.com/catalog/errata.csp?isbn=0636920010203[errata] page. (*this can only be updated with the IP ISBN*)
+
+If you have general questions or comments, please visit http://getsatisfaction.com/oreilly.
 
 == Contact Us
+
+We'd like to hear from you!
 
 For more information about O'Reilly books, courses, conferences, and news, see our website
 at http://www.oreilly.com.
