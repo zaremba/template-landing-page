@@ -1,22 +1,15 @@
 == Overview
 
-This respository contains the latest definitive bug fixed source code for examples from http://oreilly.com/catalog/0636920010203[Mining the Social Web]. This code is available for you to hack on, fork, and discuss regardless of whether or not you have any interest in the book. Feel free to do whatever you'd like with it. However, it is almost definitely the case that if you find this code even mildly interesting, you'll really benefit from picking up a copy of the book, which is available in many formats. (*Describe how this GitHub location interacts with examples.oreilly.com, catalog page errata, etc.*)
+This respository contains the latest definitive bug fixed source code for examples from http://oreilly.com/catalog/0636920010203[book title]. 
 
-In addition to _Mining the Social Web_, you might also enjoy (*author can link to other related content here, if desired?*).
+This code, like all O'Reilly books, is here to help you get your job done. It is available for you to hack on, fork, and discuss whether or not you have any interest in the book. Feel free to do whatever you'd like with it. However, if you find this code even mildly interesting, you'll really benefit from picking up a copy of the book, which is available in many formats. (*Describe how this GitHub location interacts with examples.oreilly.com, catalog page errata, etc.*)
 
-(*Can this be linked to directly from the catalog page? That way, any time the cover is updated on our end it will update at this location in GitHub?*)
+== Book Description
 
 image:http://covers.oreilly.com/images/0636920010203/lrg.jpg[cover art]
 
-(*Same linking with this marketing description? Probably more difficult, but perhaps at least paste this text from official marketing content?*)
+(*Do we want to duplicate this marketing content from the catalog page?*)
 Popular social networks such as Facebook, Twitter, and LinkedIn generate a tremendous amount of valuable social data. Who's talking to whom? What are they talking about? How often are they talking? Where are they at? This concise and practical book shows you how to answer these types of questions and more. Each chapter presents a soup-to-nuts approach that combines popular social web data, analysis techniques, and visualization so that you can find the needles you've been looking for as well as some of the ones you didn't even know to look for in the first place.
-
-With Mining the Social Web, intermediate to advanced Python programmers will learn how to collect and analyze social data in way that lends itself to hacking as well as more industrial-strength analysis. The book is highly readable from cover to cover and tells a coherent story, but chapters of interest could just as easily be cherry-picked if you need to narrow in on a specific topic in a hurry.
-
-* Get a concise and straightforward synopsis of the social web landscape so you know which 20% of the space to spend 80% of your time on
-* Use easily adaptable scripts hosted on GitHub to harvest data from popular social network APIs including Twitter, Facebook, and LinkedIn
-* Learn how to slice and dice social web data with easy to use Python tools as well as apply more advanced mining techniques such as TF-IDF, cosine similarity, collocation analysis, document summarization, and clique detection
-* Build interactive visualizations with easily adaptable web technologies built upon HTML5 and JavaScript toolkits
 
 == Getting Help
 
