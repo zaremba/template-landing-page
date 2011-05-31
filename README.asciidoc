@@ -1,25 +1,34 @@
 //template github readme page
-//5-23-11
+//5-31-11
 // Praise section can be commented out if not desired
 
 == Overview
 
-This repository contains the latest definitive bug fixed source code for examples from http://oreilly.com/catalog/0636920010203[book title]. 
+This repository contains the latest definitive bug fixed source code for examples from http://oreilly.com/catalog/<INSERT_ISBN_HERE>[book title]. 
 
-This code, like all O'Reilly books, is here to help you get your job done. It is available for you to hack on, fork, and discuss whether or not you have any interest in the book. Feel free to do whatever you'd like with it. However, if you find this code even mildly interesting, you'll really benefit from picking up a copy of the book, which is available in many formats. (*Describe how this GitHub location interacts with examples.oreilly.com, catalog page errata, etc.*)
+In general, you may use the code in this book in your programs and documentation. You do not need to contact us for permission unless you’re reproducing a significant portion of the code. For example, writing a program that uses several chunks of code from this book does not require permission. Selling or distributing a CD-ROM of examples from O’Reilly books does require permission. Answering a question by citing this book and quoting example code does not require permission. Incorporating a significant amount of example code from this book into your product’s documentation does require permission. 
+
+We appreciate, but do not require, attribution. An attribution usually includes the title, author, publisher, and ISBN. For example: “_Book Title_, by Author (O’Reilly). Copyright 2011 Copyright Holder, ISBN.” 
+
+If you feel your use of code examples falls outside fair use or the permission given above, feel free to contact us at mailto:permissions@oreilly.com[permissions@oreilly.com]. 
+
+If you are interested in this code, please consider buying a copy of the book, which is available in many formats via oreilly.com: 
+
+http://oreilly.com/catalog/<INSERT_ISBN_HERE>
+
+You get lifetime access to ebooks you purchase through oreilly.com. Read more about O'Reilly's ebook program here: http://oreilly.com/ebooks.
 
 == Book Description
 
 image:http://covers.oreilly.com/images/0636920010203/lrg.jpg[cover art]
 
-(*Do we want to duplicate this marketing content from the catalog page?*)
-Popular social networks such as Facebook, Twitter, and LinkedIn generate a tremendous amount of valuable social data. Who's talking to whom? What are they talking about? How often are they talking? Where are they at? This concise and practical book shows you how to answer these types of questions and more. Each chapter presents a soup-to-nuts approach that combines popular social web data, analysis techniques, and visualization so that you can find the needles you've been looking for as well as some of the ones you didn't even know to look for in the first place.
+Enter book description here. This can be written as desired or copied from the O'Reilly catalog page at http://oreilly.com/catalog/<INSERT_ISBN_HERE>.
 
 == Getting Help
 
 Feel free to submit pull requests if you uncover any bugs with this code or come up with improvements you'd like to share with everyone, or file an issue here on GitHub if you need help with something.
 
-If you'd like to report an error with the book not specific to the code, please see its official http://oreilly.com/catalog/errata.csp?isbn=0636920010203[errata] page. (*this can only be updated with the IP ISBN*)
+If you'd like to report an error with the book not specific to the code, please see its official http://oreilly.com/catalog/errata.csp?isbn=<INSERT_ISBN_HERE>[errata] page.
 
 If you have general questions or comments, please visit http://getsatisfaction.com/oreilly.
 
@@ -36,7 +45,7 @@ Follow us on Twitter: http://twitter.com/oreillymedia
 
 Watch us on YouTube: http://www.youtube.com/oreillymedia
 
-(*other links added by author, if desired*)
+//other links can be added by author if desired
 
 == Praise
 
