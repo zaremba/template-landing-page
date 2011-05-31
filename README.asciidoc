@@ -1,6 +1,10 @@
+//template github readme page
+//5-23-11
+// Praise section can be commented out if not desired
+
 == Overview
 
-This respository contains the latest definitive bug fixed source code for examples from http://oreilly.com/catalog/0636920010203[book title]. 
+This repository contains the latest definitive bug fixed source code for examples from http://oreilly.com/catalog/0636920010203[book title]. 
 
 This code, like all O'Reilly books, is here to help you get your job done. It is available for you to hack on, fork, and discuss whether or not you have any interest in the book. Feel free to do whatever you'd like with it. However, if you find this code even mildly interesting, you'll really benefit from picking up a copy of the book, which is available in many formats. (*Describe how this GitHub location interacts with examples.oreilly.com, catalog page errata, etc.*)
 
@@ -37,3 +41,4 @@ Watch us on YouTube: http://www.youtube.com/oreillymedia
 == Praise
 
 ``This book is wonderful, amazing, and other incredibly positive things.'' -- _Famous Reviewer, President and CEO, Fortune 500 Company; author of Very Popular Book_
+
