@@ -20,7 +20,9 @@ You get lifetime access to ebooks you purchase through oreilly.com. Read more ab
 
 == Book Description
 
-image:http://covers.oreilly.com/images/0636920010203/lrg.jpg[cover art] //replace ISBN in this URL to get appropriate cover image
+image:http://covers.oreilly.com/images/0636920010203/lrg.jpg[cover art]
+//replace ISBN in this URL to get appropriate cover image
+
 
 Enter book description here. This can be written as desired or copied from the O'Reilly catalog page at http://oreilly.com/catalog/<INSERT_ISBN_HERE>.
 
